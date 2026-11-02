@@ -1,0 +1,24 @@
+{
+  "name": "hike-m",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A hiker walks a ridge trail through Mongolia's rainbow mountains, all procedurally generated in one HTML file.",
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "dev": "node tools/serve.mjs"
+  },
+  "keywords": [
+    "threejs",
+    "webgl",
+    "procedural",
+    "hiking",
+    "mongolia"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "esbuild": "^0.28.2",
+    "three": "^0.186.1"
+  }
+}

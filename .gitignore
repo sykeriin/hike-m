@@ -1,0 +1,8 @@
+node_modules/
+screenshots/
+.remember/
+.claude/
+src/_t*.mjs
+*.log
+.DS_Store
+Thumbs.db
